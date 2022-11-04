@@ -18,12 +18,4 @@ https://nexus-train.openmsa.cloud/
 http://iq-train.openmsa.cloud:8070
 
 
-# Review
-Sonatype Nexus Firewall을 사용하면서 어떤 점이 좋으셨나요? 
-
-몰랐던 것을 알게 된 것은 무엇이 있나요?
-
-오픈소스 소프트웨어 보안에 대한 생각은 어떻게 변화하였나요? 
-
-Nexus Firewall의 장점, Trial을 사용하면서 느낀점 등 어떤 내용이든 좋아요!
 
