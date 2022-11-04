@@ -1,4 +1,4 @@
-![이벤터스-배너](![image](https://user-images.githubusercontent.com/112323612/199888791-2a6e6c20-1f96-4b1c-9a87-8c1bb36a83b3.png))
+![이벤터스-배너]![image](https://user-images.githubusercontent.com/112323612/199888791-2a6e6c20-1f96-4b1c-9a87-8c1bb36a83b3.png)
 
 
 # Workshop Objectives
