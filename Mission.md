@@ -5,7 +5,8 @@
 개인별 3개의 Repository (Individually allocated repository) 가 제공되므로, 아래 내용을 참고해서 본인의 환경에 맞게 설정합니다.
 (참조용이며, 이미 각 환경에 맞게 설정이 되어 있다면 개인 환경에서 Proxy 설정만 진행하면 됩니다.)
 
-><br/>
+
+<br><br>
 
 # Mission #2 (각 언어별 Build 및 패키지 설치, Policy 적용)
 
@@ -27,11 +28,13 @@
         pip install Django
    
 
+<br><br>
+---
+
 
 # Mission #3 (Waiver 를 통한 패키지/Artifact 다운로드 허용)
 
 
-## Quest
 
 mission#2 에서의 Malicious 패키지들은 IQ Server 정책에 의해 다운로드가 막혀 있는 상태입니다. 하지만 필요에 의해 일정 기간 불가피하게 사용해야 하는 패키지가 있거나, 아직 보안 패치가 나오지 않은 컴포넌트들도 존재합니다. 이때 보안팀과의 검토를 통해 유예(Waive) 설정을 할 수 있습니다. <br/><br/>
 
