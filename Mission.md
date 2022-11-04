@@ -5,7 +5,6 @@
 개인별 3개의 Repository (Individually allocated repository) 가 제공되므로, 아래 내용을 참고해서 본인의 환경에 맞게 설정합니다.
 (참조용이며, 이미 각 환경에 맞게 설정이 되어 있다면 개인 환경에서 Proxy 설정만 진행하면 됩니다.)
 
-
 <br><br>
 
 # Mission #2 (각 언어별 Build 및 패키지 설치, Policy 적용)
@@ -27,10 +26,7 @@
    
         pip install Django
    
-
 <br><br>
----
-
 
 # Mission #3 (Waiver 를 통한 패키지/Artifact 다운로드 허용)
 
