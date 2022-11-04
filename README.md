@@ -6,7 +6,7 @@
 
 Nexus Firewall is Sonatype unique offering in the market that not only protect you against open source vulnerability (phase 1 attack) during download, it is also the only product in the market that prevents phase 2 attacks (malicious packages, typo squatting, dependency confusion”<br/><br/><br/><br/>
 
-![image](../img/timetable.jpg)
+![image](/img/timetable.jpg)
 
 # 환경정보
 **Nexus Repository 시스템**
