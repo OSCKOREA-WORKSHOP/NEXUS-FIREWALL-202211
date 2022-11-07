@@ -13,7 +13,7 @@ Nexus Firewall is Sonatype unique offering in the market that not only protect y
 
 https://nexus-train.openmsa.cloud/ 
 
-** IQ Server 접속 **
+**IQ Server 접속**
 
 http://iq-train.openmsa.cloud:8070
 
